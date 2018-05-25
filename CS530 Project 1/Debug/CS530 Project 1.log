@@ -1,0 +1,4 @@
+﻿  file_parser.cpp
+c:\users\dhern_000\documents\visual studio 2017\projects\cs530 project 1\file_parser.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  CS530 Project 1.vcxproj -> C:\Users\dhern_000\Documents\Visual Studio 2017\Projects\CS530 Project 1\Debug\CS530 Project 1.exe
+  CS530 Project 1.vcxproj -> C:\Users\dhern_000\Documents\Visual Studio 2017\Projects\CS530 Project 1\Debug\CS530 Project 1.pdb (Partial PDB)
